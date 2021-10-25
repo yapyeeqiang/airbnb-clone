@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Airbnb Clone
 
-## Getting Started
+This is the starter code for our Airbnb Clone with all the backend API code
+ready.
 
-First, run the development server:
+We will be focusing on Tailwind CSS, including:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Header
+  ![image](https://user-images.githubusercontent.com/63979210/130708813-5058107f-8850-47d1-acdb-30e10df93c2e.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Banner
+  ![image](https://user-images.githubusercontent.com/63979210/130708712-a3a98935-b300-4c8e-94cf-c16b64476aa0.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- Explore Nearby Section
+  ![image](https://user-images.githubusercontent.com/63979210/130708720-3dd1ad05-b0fd-41a7-a4e5-c48469b9ce78.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Live Anywhere Section
+  ![image](https://user-images.githubusercontent.com/63979210/130708742-0797885a-67a2-4995-862d-2190a54a459e.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Footer Banner Section
+  ![image](https://user-images.githubusercontent.com/63979210/130708762-6efa71fd-3a47-43e3-9382-196deec8aaa0.png)
 
-## Learn More
+- Footer
+  ![image](https://user-images.githubusercontent.com/63979210/130708733-a88ab00b-01e3-4961-9689-9f744112e758.png)
 
-To learn more about Next.js, take a look at the following resources:
+## We will also look into mobile responsive and how to configure JIT compiler
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Credits to https://www.papareact.com/ (PAPA React @SonnySangha)
